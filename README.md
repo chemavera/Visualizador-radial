@@ -24,10 +24,10 @@ Posteriormente a la selección de los vectores, el programa usará estos para di
 *	Adaptable exact: Es una extensión del algoritmo Adaptable, donde la restricción estricta que obliga a realizar estimaciones exactas para un atributo puede utilizarse para ordenar los datos correctamente según el eje correspondiente. Sin embargo, puede aumentar considerablemente los errores de estimación en las otras variables.
 *	Adaptable ordered: Es una extensión del algoritmo Adaptable, donde se aplicada el problema de optimización para representar los datos perfectamente, y por lo tanto correctamente ordenados, según el eje. A diferencia de Adaptable exact que, puede aumentar los errores de estimación en las otras variables considerablemente. Y con el fin de aliviar este problema, en esta sección se considera una restricción más leve que sólo requiere que los puntos sean ordenados correctamente a lo largo del eje.
 
-### Muestra de las diferentes visualizaciones que obtendremos con PCA:
+### Muestra de las diferentes visualizaciones que obtendremos con PCA (sobre iris-dataset):
 ![Multiples_PCA](https://user-images.githubusercontent.com/51456705/84685951-5f002e00-af3b-11ea-8436-074ba8ae166a.png)
 
-### Muestra de las diferentes visualizaciones que obtendremos con LDA:
+### Muestra de las diferentes visualizaciones que obtendremos con LDA (sobre iris-dataset):
 ![Multiplles LDA](https://user-images.githubusercontent.com/51456705/84686208-d3d36800-af3b-11ea-809d-00948378f9ec.png)
 
 ## Uso de la interfaz.
