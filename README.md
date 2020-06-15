@@ -23,6 +23,13 @@ Posteriormente a la selección de los vectores, el programa usará estos para di
 *	Adaptable: Este algoritmo, puede considerarse como una extensión de SC, con el añadido de que las proyecciones se definen a través de problemas de aproximación de normas convexas. En particular, el enfoque también minimiza los errores que los usuarios cometerían al aproximar valores de atributos de alta dimensión proyectando puntos mapeados ortogonalmente sobre los ejes. Sin embargo, incorpora elementos y variantes que no sólo ofrecen a los usuarios un conjunto más rico de proyecciones para explorar, pero también facilita varias tareas de análisis de datos.
 *	Adaptable exact: Es una extensión del algoritmo Adaptable, donde la restricción estricta que obliga a realizar estimaciones exactas para un atributo puede utilizarse para ordenar los datos correctamente según el eje correspondiente. Sin embargo, puede aumentar considerablemente los errores de estimación en las otras variables.
 *	Adaptable ordered: Es una extensión del algoritmo Adaptable, donde se aplicada el problema de optimización para representar los datos perfectamente, y por lo tanto correctamente ordenados, según el eje. A diferencia de Adaptable exact que, puede aumentar los errores de estimación en las otras variables considerablemente. Y con el fin de aliviar este problema, en esta sección se considera una restricción más leve que sólo requiere que los puntos sean ordenados correctamente a lo largo del eje.
+
+### Muestra de las diferentes visualizaciones que obtendremos con PCA:
+![Multiples_PCA](https://user-images.githubusercontent.com/51456705/84685951-5f002e00-af3b-11ea-8436-074ba8ae166a.png)
+
+### Muestra de las diferentes visualizaciones que obtendremos con LDA:
+![Multiples_PCA](https://user-images.githubusercontent.com/51456705/84685951-5f002e00-af3b-11ea-8436-074ba8ae166a.png)
+
 ## Uso de la interfaz.
 En primera instancia, se debe cargar un archivo, para ello se puede arrastrar y soltar el fichero encima del botón drag and drop or select files o bien se puede clicar en este y aparecerá una pantalla emergente de nuestra carpeta de documentos, donde podemos seleccionar el archivo a utilizar.
 Una vez cargado el archivo se debe clicar el botón de propagate data, para propagar los datos a los selectores.
