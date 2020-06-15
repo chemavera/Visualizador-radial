@@ -38,6 +38,10 @@ También, hay que seleccionar una variable para ordenar los datos según esta, d
 Por último, seleccionamos la clase, target, mediante un desplegable e indicamos como queremos que represente los colores, por valor o por target haciendo uso de un RadioItem.
 Una vez tengamos todos estos parámetros definidos, al clicar el botón calculate, la interfaz muestra por pantalla la visualización, donde se puede hacer uso de la interactividad de la gráfica.
 Para ello debemos coger el extremo superior del vector representado y desplazarlo a la nueva posición que deseemos, y el programa se encargará de volver a realizar los cálculos con los nuevos vectores y representando de nuevo con esos valores la gráfica de dispersión. También se puede seleccionar el rango de valores por el cual queramos que la gráfica muestre los datos. Es decir, podemos variar el radio de los datos de entrada para quedarnos únicamente con los de mayor, menor o valor intermedio.
+
+### Captura de como se vería la gráfica dentro de la interfaz:
+![PCA](https://user-images.githubusercontent.com/51456705/84686927-22353680-af3d-11ea-8d7e-6d9fd34032b3.png)
+
 ## Librerías implementadas.
 Tanto para la realización de la interfaz como para la implementación de la función mapping en calculate_mapping_general se usan las siguientes librarías.
 *	Numpy.
