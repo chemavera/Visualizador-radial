@@ -28,7 +28,7 @@ Posteriormente a la selección de los vectores, el programa usará estos para di
 ![Multiples_PCA](https://user-images.githubusercontent.com/51456705/84685951-5f002e00-af3b-11ea-8436-074ba8ae166a.png)
 
 ### Muestra de las diferentes visualizaciones que obtendremos con LDA:
-![Multiples_PCA](https://user-images.githubusercontent.com/51456705/84685951-5f002e00-af3b-11ea-8436-074ba8ae166a.png)
+![Multiplles LDA](https://user-images.githubusercontent.com/51456705/84686208-d3d36800-af3b-11ea-809d-00948378f9ec.png)
 
 ## Uso de la interfaz.
 En primera instancia, se debe cargar un archivo, para ello se puede arrastrar y soltar el fichero encima del botón drag and drop or select files o bien se puede clicar en este y aparecerá una pantalla emergente de nuestra carpeta de documentos, donde podemos seleccionar el archivo a utilizar.
