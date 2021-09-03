@@ -9,7 +9,7 @@
 *	Bibliografía.
 
 ## Objetivos.
-En este trabajo se pretende realizar una interfaz gráfica usando Python, la cual se capaz de realizar visualizaciones de diferentes métodos de reducción de la dimensionalidad, así como su interpretación radial.
+En este trabajo se pretende realizar una interfaz gráfica usando Python, la cual sea capaz de realizar visualizaciones de diferentes métodos de reducción de la dimensionalidad, así como su interpretación radial.
 También se pretende conseguir que mediante la interacción del usuario con la gráfica (por pantalla), esta sea capaz de representar radialmente los datos al gusto del usuario.
 ## Introducción teórica.
 Para la visualización de datos en la interfaz gráfica, se siguen diferentes procesos. Primero hemos de seleccionar la forma en la que se visualizarán los vectores, los cuales de una forma gráfica) nos indican la importancia de las variables seleccionadas con los datos representados.
